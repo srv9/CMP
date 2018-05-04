@@ -1,0 +1,13 @@
+/home/admin/Documents/Selenium/VCMP/src/main/java/com/vcmp/pages/LoginPage.java
+/home/admin/Documents/Selenium/VCMP/src/main/java/com/vcmp/pages/SAPStatusPage.java
+/home/admin/Documents/Selenium/VCMP/src/main/java/com/vcmp/pages/UserActionLogPage.java
+/home/admin/Documents/Selenium/VCMP/src/main/java/com/vcmp/pages/ShipToPage.java
+/home/admin/Documents/Selenium/VCMP/src/main/java/com/vcmp/pages/HomePage.java
+/home/admin/Documents/Selenium/VCMP/src/main/java/com/vcmp/pages/SoldToPage.java
+/home/admin/Documents/Selenium/VCMP/src/main/java/com/vcmp/pages/ChangePasswordPage.java
+/home/admin/Documents/Selenium/VCMP/src/main/java/com/vcmp/pages/ParentCodePage.java
+/home/admin/Documents/Selenium/VCMP/src/main/java/com/vcmp/pages/ExtensionCustPage.java
+/home/admin/Documents/Selenium/VCMP/src/main/java/com/vcmp/pages/ImportStatusPage.java
+/home/admin/Documents/Selenium/VCMP/src/main/java/com/vcmp/base/TestBase.java
+/home/admin/Documents/Selenium/VCMP/src/main/java/com/vcmp/pages/EmailStatusPage.java
+/home/admin/Documents/Selenium/VCMP/src/main/java/com/vcmp/utility/TestUtil.java

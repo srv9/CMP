@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [VCMP Application Test Automation Test Suite]">
+  <listeners>
+    <listener class-name="com.vcmp.utility.ExtentReporterNG"/>
+  </listeners>
+  <test name="VCMP App Test Cases(failed)">
+    <classes>
+      <class name="com.vcmp.tests.ControlDataPageTest">
+        <methods>
+          <include name="ControlDataTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.vcmp.tests.ControlDataPageTest -->
+      <class name="com.vcmp.tests.SoldToPageTest">
+        <methods>
+          <include name="AddressDataTest" invocation-numbers="0"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- com.vcmp.tests.SoldToPageTest -->
+    </classes>
+  </test> <!-- VCMP App Test Cases(failed) -->
+</suite> <!-- Failed suite [VCMP Application Test Automation Test Suite] -->
